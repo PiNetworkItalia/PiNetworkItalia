@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pi Network - Guadagna con il tuo Smartphone</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 { color: #ff9800; }
+        .cta {
+            background: #ff9800;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .newsletter {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Pi Network - Guadagna con il tuo Smartphone</h1>
+        <p>Inizia a minare Pi Network oggi! Unisciti alla rivoluzione delle criptovalute con il mio codice invito.</p>
+        <a href="https://minepi.com/matteopavan" class="cta">Scarica Pi Network</a>
+        
+        <div class="newsletter">
+            <h2>Iscriviti per aggiornamenti</h2>
+            <form>
+                <input type="email" placeholder="pavanmatteo1001@gmail.com" required>
+                <button type="submit" class="cta">Iscriviti</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
